@@ -12,7 +12,7 @@ layout: default
 
 ## Live Streaming Link
 
-<p style="color:red">No game at the moment</p>
+<p style="color:red">Searching...</p>
 
 ## Upcoming Games
 
