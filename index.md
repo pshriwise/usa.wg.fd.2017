@@ -12,7 +12,7 @@ layout: default
 
 ## Live Streaming Link
 
-<p style="color:red">Still searching... :(</p>
+[Link to current live game!](http://wizja.tv/watch.php?id=77)
 
 ## Upcoming Games
 
