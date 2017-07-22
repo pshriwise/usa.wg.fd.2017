@@ -25,7 +25,7 @@ layout: default
 
 The Olympic Channel broadcasts of the USA games are generally taped and broadcast at a later time, but live streams of the games can be found as well (see above). The broadcasts tend to be of better quality than the live streams, but only some games are broadcast it seems.
 
-[Link to broadcast](https://www.olympicchannel.com/en/home-signed-in/)
+[Link to Olympic Channel broadcast](https://www.olympicchannel.com/en/home-signed-in/)
 <p></p>
 ***Note:** you must register/sign in for the stream to appear*
 
