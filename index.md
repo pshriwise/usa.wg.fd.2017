@@ -13,7 +13,7 @@ layout: default
 ## Live Streaming Link
 
 [Link to current live game!](http://wizja.tv/watch.php?id=77)
-**Current Score: USA - 11 JPN - 6**
+**Current Score: USA - 12 JPN - 7**
 
 ## Upcoming Games
 
