@@ -12,7 +12,7 @@ layout: default
 
 ## Live Streaming Link
 
-<p style="color:red">Searching...</p>
+<p style="color:red">Still searching... :(</p>
 
 ## Upcoming Games
 
