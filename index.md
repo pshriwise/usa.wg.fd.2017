@@ -23,7 +23,7 @@ layout: default
 
 **Next broadcast (not live)**: July 22nd 7:45 PM CST - USA vs. Japan ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T0245&p1=664))
 
-The Olympic Channel broadcasts of the USA games are generally taped and broadcast at a later time, but live streams of the games can be found as well (see above). The broadcasts tend to be of better quality than the live streams, but only some games are broadcast it seems.
+The Olympic Channel broadcasts of the USA games are generally taped and broadcast at a later time, but live streams of the games can be found as well (see above). The broadcasts tend to be of higher quality than the live streams, but only some games are broadcast it seems.
 
 [Link to Olympic Channel broadcast](https://www.olympicchannel.com/en/home-signed-in/)
 <p></p>
