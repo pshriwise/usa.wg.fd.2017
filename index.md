@@ -12,7 +12,7 @@ July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldc
 
 ## Live Streaming Link
 
-<p style="color:red"> No current game </p>
+<p style="color:red"> No game right now </p>
 
 ## Upcoming Games
 
