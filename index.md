@@ -17,6 +17,7 @@ July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldc
 ## Upcoming Games
 
 * July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
+* <p style="color:yellow">Gold Medal Match</p> July 23rd 7:00 AM CST vs. Colombia
 
 ## Olympic Channel Broadcasts
 
