@@ -42,6 +42,9 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">SURGE! <a href="https://t.co/9fOl1atQUs">pic.twitter.com/9fOl1atQUs</a></p>&mdash; Evan Lepler (@EvanLepler) <a href="https://twitter.com/EvanLepler/status/888717078374612993">July 22, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### [Articles On The Games](http://nationalteam.usaultimate.org/world-games/news/)
+
+
 ## Feedback
 
 **If something is incorrect in the the schedule or links (or if you'd like me to add something!), please email pshriwise@gmail.com**
@@ -49,4 +52,4 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 *For the fellow nerds you can also make an issue [here](https://github.com/pshriwise/usa.wg.fd.2017)*
 
 
-<sub>Jekyll theme [Solo](https://github.com/chibicode/solo) provided by [Shu Uesugi](https://github.com/chibicode)</sub> 
+<sub>Jekyll theme [Solo](https://github.com/chibicode/solo) provided by [Shu Uesugi](https://github.com/chibicode)</sub>
