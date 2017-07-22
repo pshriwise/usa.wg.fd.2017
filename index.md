@@ -8,16 +8,14 @@ layout: default
 
 ## Next Game
 
-11:30 AM CST vs. Japan ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170722T1830&p1=664))
+July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
 
 ## Live Streaming Link
 
-[Link to current live game!](http://wizja.tv/watch.php?id=77)
-**Current Score: USA - 12 JPN - 7**
+<p style="color:red"> No current game </p>
 
 ## Upcoming Games
 
-* July 22nd 11:30 AM CST vs. Japan ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170722T1830&p1=664))
 * July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
 
 ## Olympic Channel Broadcasts
@@ -32,11 +30,12 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 
 ## Quick summary so far
 
-| Date      | Opponent  | Opponent | Result |
+| Date      | Opponent  | Score    | Result |
 |-----------|-----------|----------|--------|
 | July 21st | Colombia  | 12-13    | L      |
 | July 21st | Canada    | 13-10    | W      |
 | July 22nd | Australia | 13-7     | W      |
+| July 22nd | Japan     | 13-7     | W      |
 
 ## Highlight
 
