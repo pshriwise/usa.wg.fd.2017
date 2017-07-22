@@ -14,7 +14,7 @@ layout: default
 
 <p style="color:red">No game at the moment</p>
 
-## Upcoming USA Games
+## Upcoming Games
 
 * July 22nd @ 11:30 AM CST vs. Japan
 * July 23rd @ 5:30 AM CST vs. Poland
