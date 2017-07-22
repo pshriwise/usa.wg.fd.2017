@@ -37,6 +37,10 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 | July 21st | Canada    | 13-10    | W      |
 | July 22nd | Australia | 13-7     | W      |
 
+## Highlights
+
+[Surge Skys](https://twitter.com/EvanLepler/status/888717078374612993)
+
 ## Feedback
 
 **If something is incorrect in the the schedule or links (or if you'd like me to add something!), please email pshriwise@gmail.com**
