@@ -37,7 +37,7 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 | July 21st | Canada    | 13-10    | W      |
 | July 22nd | Australia | 13-7     | W      |
 
-## Highlights
+## Highlight
 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">SURGE! <a href="https://t.co/9fOl1atQUs">pic.twitter.com/9fOl1atQUs</a></p>&mdash; Evan Lepler (@EvanLepler) <a href="https://twitter.com/EvanLepler/status/888717078374612993">July 22, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
