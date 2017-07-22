@@ -33,8 +33,8 @@ The Olympic Channel broadcasts of the USA games are generally broadcast at a lat
 
 | Date      | Opponent  | Opponent | Result |
 |-----------|-----------|----------|--------|
-| July 21st | Colombia  | 12-13    | W      |
-| July 21st | Canada    | 13-10    | L      |
+| July 21st | Colombia  | 12-13    | L      |
+| July 21st | Canada    | 13-10    | W      |
 | July 22nd | Australia | 13-7     | W      |
 
 ## Feedback
@@ -42,3 +42,6 @@ The Olympic Channel broadcasts of the USA games are generally broadcast at a lat
 **If something is incorrect in the the schedule or links (or if you'd like me to add something!), please email pshriwise@gmail.com**
 <p></p>
 *For the fellow nerds you can also make an issue [here](https://github.com/pshriwise/usa.wg.fd.2017)*
+
+
+<sub>Jekyll theme [Solo](https://github.com/chibicode/solo) provided by [Shu Uesugi](https://github.com/chibicode)</sub> 
