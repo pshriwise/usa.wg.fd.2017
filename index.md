@@ -16,8 +16,8 @@ layout: default
 
 ## Upcoming Games
 
-* July 22nd @ 11:30 AM CST vs. Japan ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170722T1830&p1=664))
-* July 23rd @ 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
+* July 22nd 11:30 AM CST vs. Japan ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170722T1830&p1=664))
+* July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
 
 ## Olympic Channel Broadcasts
 
