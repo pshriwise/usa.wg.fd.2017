@@ -27,7 +27,7 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 
 [Link to Olympic Channel broadcast](https://www.olympicchannel.com/en/home-signed-in/)
 <p></p>
-***Note:** you must register/sign in for the stream to appear*
+***Note:** you must register/sign in and refresh for the broadcast to appear*
 
 ## Quick summary so far
 
