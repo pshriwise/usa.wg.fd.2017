@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Flying Disc Team USA - World Games 2017
+tag_text: Flying Disc Team USA
+description: A barebones guide to following the Team USA in the flying disc competition at World Games 2017 in Wroclaw, Poland.
 
 # Build settings
 markdown: kramdown
