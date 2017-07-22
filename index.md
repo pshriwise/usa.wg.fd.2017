@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Flying Disc Team USA 2017 World Games Info
+# Team USA Flying Disc World Games 2017 Info
 
 ### [Full results and bracket](https://worldgames2017.sportresult.com/hide/en/-120/Comp/Info/EventSummary/FDX400000)
 
