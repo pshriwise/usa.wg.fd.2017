@@ -13,7 +13,7 @@ July 23rd 10:00 AM CST vs. Colombia ([your time](https://www.timeanddate.com/wor
 
 ## Live Streaming Link
 
-<p style="color:red"> No game right now. </p>
+[Gold Medal Match Live Stream](http://wizja.tv/watch.php?id=77)
 
 ## Upcoming Games
 
