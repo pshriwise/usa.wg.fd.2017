@@ -6,13 +6,13 @@ layout: default
 
 ### [Full results and bracket](https://worldgames2017.sportresult.com/hide/en/-120/Comp/Info/EventSummary/FDX400000)
 
-## Next Game
-
+## Next Game 
+<p style="color:red"> DELAYED </p>
 July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
 
 ## Live Streaming Link
 
-<p style="color:red"> No game right now </p>
+<p style="color:red"> No game right now. Current match is delayed </p>
 
 ## Upcoming Games
 
