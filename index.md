@@ -9,7 +9,9 @@ layout: default
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/USAUltimateWG">@USAUltimateWG</a>!!! 🎉🎉🎉 <a href="https://t.co/aOogqgMKqn">pic.twitter.com/aOogqgMKqn</a></p>&mdash; Women in Ultimate (@WomenInUltimate) <a href="https://twitter.com/WomenInUltimate/status/889163392342032384">July 23, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">And Georgia Bosscher has her highlight!! What a catch! 6-4 USA <a href="https://t.co/Vye93rlxnM">pic.twitter.com/Vye93rlxnM</a></p>&mdash; Evan Lepler (@EvanLepler) <a href="https://twitter.com/EvanLepler/status/889146170303557632">July 23, 2017</a></blockquote>
+**The final point - Georia to Sandy just like their old college days**
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">USA claims gold 13-7 over Colombia! Bosscher to Jorgensen, the Bella Donna duo, to commence the celebration! Congrats to <a href="https://twitter.com/USAUltimate">@USAUltimate</a>! <a href="https://t.co/qB4d20DhIg">pic.twitter.com/qB4d20DhIg</a></p>&mdash; Evan Lepler (@EvanLepler) <a href="https://twitter.com/EvanLepler/status/889155528353599488">July 23, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### [Full results and bracket](https://worldgames2017.sportresult.com/hide/en/-120/Comp/Info/EventSummary/FDX400000)
