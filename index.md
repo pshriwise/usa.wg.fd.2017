@@ -22,7 +22,7 @@ July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldc
 
 ## Olympic Channel Broadcasts
 
-**Next broadcast (not live)**: July 22nd 7:45 PM CST - USA vs. Japan ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T0245&p1=664))
+**Next Broadcast (Gold Medal Match)**: July 23rd 12:00 PM CST - USA vs. Colombia ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1900&p1=664))
 
 The Olympic Channel broadcasts of the USA games are generally taped and broadcast at a later time, but live streams of the games can be found as well (see above). The broadcasts tend to be of higher quality than the live streams, but only some games are broadcast it seems.
 
@@ -45,7 +45,6 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### [Articles On The Games](http://nationalteam.usaultimate.org/world-games/news/)
-
 
 ## Feedback
 
