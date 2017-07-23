@@ -7,16 +7,16 @@ layout: default
 ### [Full results and bracket](https://worldgames2017.sportresult.com/hide/en/-120/Comp/Info/EventSummary/FDX400000)
 
 ## Next Game 
-<p style="color:red"> DELAYED </p>
-July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
+<p style="color:red"> This morning's game against Poland was canceled </p>
+
+July 23rd 10:00 AM CST vs. Colombia ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1700&p1=664))
 
 ## Live Streaming Link
 
-<p style="color:red"> No game right now. Current match is delayed </p>
+<p style="color:red"> No game right now. </p>
 
 ## Upcoming Games
 
-* July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1230&p1=664))
 <font style="color:#B8860B">Gold Medal Match</font>
 * July 23rd 10:00 AM CST vs. Colombia ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1700&p1=664))
 
@@ -38,6 +38,8 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 | July 21st | Canada    | 13-10    | W      |
 | July 22nd | Australia | 13-7     | W      |
 | July 22nd | Japan     | 13-7     | W      |
+| July 23rd | Poland    | Canceled |        |
+
 
 ## Highlight
 
