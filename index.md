@@ -4,25 +4,23 @@ layout: default
 
 # Team USA Flying Disc World Games 2017 Info
 
+<p style="color:green">THEY WON!!!! USA takes the gold medal over Colombia in finals!</p>
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/USAUltimateWG">@USAUltimateWG</a>!!! 🎉🎉🎉 <a href="https://t.co/aOogqgMKqn">pic.twitter.com/aOogqgMKqn</a></p>&mdash; Women in Ultimate (@WomenInUltimate) <a href="https://twitter.com/WomenInUltimate/status/889163392342032384">July 23, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">And Georgia Bosscher has her highlight!! What a catch! 6-4 USA <a href="https://t.co/Vye93rlxnM">pic.twitter.com/Vye93rlxnM</a></p>&mdash; Evan Lepler (@EvanLepler) <a href="https://twitter.com/EvanLepler/status/889146170303557632">July 23, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### [Full results and bracket](https://worldgames2017.sportresult.com/hide/en/-120/Comp/Info/EventSummary/FDX400000)
-
-## Next Game 
-<p style="color:red"> This morning's game against Poland was canceled </p>
-
-July 23rd 10:00 AM CST vs. Colombia ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1700&p1=664))
 
 ## Live Streaming Link
 
 [Gold Medal Match Live Stream](http://wizja.tv/watch.php?id=77)
 
-## Upcoming Games
-
-<font style="color:#B8860B">Gold Medal Match</font>
-* July 23rd 10:00 AM CST vs. Colombia ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1700&p1=664))
-
 ## Olympic Channel Broadcasts
 
-**Next Broadcast (Gold Medal Match)**: July 23rd 12:00 PM CST - USA vs. Colombia ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1900&p1=664))
+**Next Broadcast** Hoping that they play the USA v Colombia final one more time. I'll add it here if I find it.
 
 The Olympic Channel broadcasts of the USA games are generally taped and broadcast at a later time, but live streams of the games can be found as well (see above). The broadcasts tend to be of higher quality than the live streams, but only some games are broadcast it seems.
 
@@ -39,6 +37,7 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 | July 22nd | Australia | 13-7     | W      |
 | July 22nd | Japan     | 13-7     | W      |
 | July 23rd | Poland    | Canceled |        |
+| July 23rd | Colombia  | 13-7     | W      |
 
 
 ## Highlight
