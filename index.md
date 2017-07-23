@@ -12,7 +12,8 @@ July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldc
 
 ## Live Streaming Link
 
-<p style="color:red"> No game right now </p>
+<p style="color:red"> No current game </p>
+There is a [broadcast](#broadcasts) right now though!
 
 ## Upcoming Games
 
@@ -20,7 +21,9 @@ July 23rd 5:30 AM CST vs. Poland ([your time](https://www.timeanddate.com/worldc
 <font style="color:#B8860B">Gold Medal Match</font>
 * July 23rd 10:00 AM CST vs. Colombia ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T1700&p1=664))
 
-## Olympic Channel Broadcasts
+<a name="broadcasts"></a>
+
+## Olympic Channel Broadcasts 
 
 **Next broadcast (not live)**: July 22nd 7:45 PM CST - USA vs. Japan ([your time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20170723T0245&p1=664))
 
