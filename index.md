@@ -6,6 +6,8 @@ layout: default
 
 <p style="color:green">THEY WON!!!! USA takes the gold medal over Colombia in finals!</p>
 
+**[Link to full game](https://www.facebook.com/fu.bmanga/videos/1167507360050036/?hc_ref=ARR4uf4NmArGYa4aeRSP5X4LGnwxAV3YrSBgslmSCupQotBlf4jYj63phk2y73sxkmY)**
+
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/USAUltimateWG">@USAUltimateWG</a>!!! 🎉🎉🎉 <a href="https://t.co/aOogqgMKqn">pic.twitter.com/aOogqgMKqn</a></p>&mdash; Women in Ultimate (@WomenInUltimate) <a href="https://twitter.com/WomenInUltimate/status/889163392342032384">July 23, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
