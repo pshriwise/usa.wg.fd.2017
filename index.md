@@ -4,7 +4,8 @@ layout: default
 
 # Team USA Flying Disc World Games 2017 Info
 
-<p style="color:green">THEY WON!!!! USA takes the gold medal over Colombia in finals!</p>
+ <p style="color:green"> :tada:  :trophy: THEY WON!!!! USA takes the gold medal over Colombia in finals!  :trophy: :tada: </p>
+
 
 **[Link to the full gold medal match](https://www.facebook.com/fu.bmanga/videos/1167507360050036/?hc_ref=ARR4uf4NmArGYa4aeRSP5X4LGnwxAV3YrSBgslmSCupQotBlf4jYj63phk2y73sxkmY)**
 
@@ -22,14 +23,14 @@ layout: default
 
 ## Quick summary
 
-| Date      | Opponent  | Score    | Result |
-|-----------|-----------|----------|--------|
-| July 21st | Colombia  | 12-13    | L      |
-| July 21st | Canada    | 13-10    | W      |
-| July 22nd | Australia | 13-7     | W      |
-| July 22nd | Japan     | 13-7     | W      |
-| July 23rd | Poland    | Canceled |        |
-| July 23rd | Colombia  | 13-7     | W      |
+| Date      | Opponent  | Score    | Result                    |
+|-----------|-----------|----------|---------------------------|
+| July 21st | Colombia  | 12-13    | L                         |
+| July 21st | Canada    | 13-10    | W                         |
+| July 22nd | Australia | 13-7     | W                         |
+| July 22nd | Japan     | 13-7     | W                         |
+| July 23rd | Poland    | Canceled |                           |
+| July 23rd | Colombia  | 13-7     | :trophy: W :trophy:       |
 
 ## Another Highlight
 

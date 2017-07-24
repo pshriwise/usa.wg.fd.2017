@@ -6,6 +6,7 @@ description: A barebones guide to following the Team USA in the flying disc comp
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
+gems: ["jemoji"]
 sass:
   style: compressed
 

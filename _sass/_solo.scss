@@ -116,6 +116,13 @@ hr {
   display: block;
 }
 
+.container img.emoji {
+  display: inline;	
+  height: 1em;	
+  width: 1em;
+  margin-bottom: 0.25em;	
+}
+
 table {
   width: 100%;
   border: 1px solid #ccc;
