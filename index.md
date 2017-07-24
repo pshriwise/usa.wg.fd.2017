@@ -18,21 +18,7 @@ layout: default
 
 ### [Full results and bracket](https://worldgames2017.sportresult.com/hide/en/-120/Comp/Info/EventSummary/FDX400000)
 
-## Live Streaming Link
-
-[Gold Medal Match Live Stream](http://wizja.tv/watch.php?id=77)
-
-## Olympic Channel Broadcasts
-
-**Next Broadcast** Hoping that they play the USA v Colombia final one more time. I'll add it here if I find it.
-
-The Olympic Channel broadcasts of the USA games are generally taped and broadcast at a later time, but live streams of the games can be found as well (see above). The broadcasts tend to be of higher quality than the live streams, but only some games are broadcast it seems.
-
-[Link to Olympic Channel broadcast](https://www.olympicchannel.com/en/home-signed-in/)
-<p></p>
-***Note:** you must register/sign in and refresh for the broadcast to appear*
-
-## Quick summary so far
+## Quick summary
 
 | Date      | Opponent  | Score    | Result |
 |-----------|-----------|----------|--------|
@@ -43,13 +29,14 @@ The Olympic Channel broadcasts of the USA games are generally taped and broadcas
 | July 23rd | Poland    | Canceled |        |
 | July 23rd | Colombia  | 13-7     | W      |
 
+### [Articles On The Games](http://nationalteam.usaultimate.org/world-games/news/)
 
-## Highlight
+## Another Highlight
 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">SURGE! <a href="https://t.co/9fOl1atQUs">pic.twitter.com/9fOl1atQUs</a></p>&mdash; Evan Lepler (@EvanLepler) <a href="https://twitter.com/EvanLepler/status/888717078374612993">July 22, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### [Articles On The Games](http://nationalteam.usaultimate.org/world-games/news/)
+
 
 ## Feedback
 
