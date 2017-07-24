@@ -18,6 +18,8 @@ layout: default
 
 ### [Full results and bracket](https://worldgames2017.sportresult.com/hide/en/-120/Comp/Info/EventSummary/FDX400000)
 
+### [Articles On The Games](http://nationalteam.usaultimate.org/world-games/news/)
+
 ## Quick summary
 
 | Date      | Opponent  | Score    | Result |
@@ -28,8 +30,6 @@ layout: default
 | July 22nd | Japan     | 13-7     | W      |
 | July 23rd | Poland    | Canceled |        |
 | July 23rd | Colombia  | 13-7     | W      |
-
-### [Articles On The Games](http://nationalteam.usaultimate.org/world-games/news/)
 
 ## Another Highlight
 
