@@ -8,3 +8,5 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+
+theme: jekyll-theme-minimal
